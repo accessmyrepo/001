@@ -11,10 +11,10 @@ https://github.com/namtpham/casia2groundtruth
 ### Citation:
 J. Dong, W. Wang, and T. Tan, “CASIA Image Tampering Detection Evaluation Database,” in Proceedings of the 2013 IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP), 2013, pp. 422–426.
 
-## 2. CG-1050 Dataset
-https://data.mendeley.com/datasets/dk84bmnyw9/2
+## 2. CG-1050v2 Dataset
+https://data.mendeley.com/datasets/28xhc4kyfp/1
 ### Citation:
-Castro, Maikol; Ballesteros L, Dora Maria; Renza, Diego (2019), “CG-1050: Original and tampered images (Color and grayscale)”, Mendeley Data, V2, doi: 10.17632/dk84bmnyw9.2
+Castro, Maikol; Ballesteros L, Dora Maria; Renza, Diego (2019), “CG-1050 v2: Original and tampered images ”, Mendeley Data, V1, doi: 10.17632/28xhc4kyfp.1
 
 ## 3. CoMoFoD (Copy-Move Forgery Detection Dataset)
 https://www.vcl.fer.hr/comofod/index.html
